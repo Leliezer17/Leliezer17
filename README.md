@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mi nombre es luis arocha y estoy estudiando programacion, especificamente programacion front-end , me gusta aprender y expandir mis conocimientos mediante la frecuente investigacion de nuevas tecnologias
 
 <!--
 **Leliezer17/Leliezer17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
